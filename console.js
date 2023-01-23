@@ -1,2 +1,3 @@
 // This is a Comment
-Console.log("Hello World");
+console.log("Hello World");
+console.log("Car"); // 2nd time 
